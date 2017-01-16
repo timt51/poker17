@@ -1,0 +1,1219 @@
+6.S912 MIT Pokerbots - P22 vs P12 (stack=200, bb=2)
+Hand #1, P22 (0), P12 (0)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Qh Qs]
+Dealt to P12 [6s 5h]
+P22 calls
+P12 checks
+*** FLOP *** (4) [Th 9c Ks]
+P12 checks
+P22 bets 19
+P12 folds
+Uncalled bet of 19 returned to P22
+P22 wins the pot (4)
+
+Hand #2, P12 (-2), P22 (2)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qs 5h]
+Dealt to P22 [Jd Ad]
+P12 folds
+P22 wins the pot (3)
+
+Hand #3, P22 (3), P12 (-3)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Th 9h]
+Dealt to P12 [3c Qc]
+P22 raises to 191
+P12 calls
+*** FLOP *** (382) [Jh Js Qs]
+P12 checks
+P22 checks
+*** TURN *** (382) [Jh Js Qs] [3d]
+P12 checks
+P22 checks
+*** RIVER *** (382) [Jh Js Qs 3d] [Qd]
+P12 checks
+P22 bets 2
+P12 folds
+Uncalled bet of 2 returned to P22
+P22 wins the pot (382)
+
+Hand #4, P12 (-194), P22 (194)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [7d As]
+Dealt to P22 [Qs Kh]
+P12 folds
+P22 wins the pot (3)
+
+Hand #5, P22 (195), P12 (-195)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [8d 9c]
+Dealt to P12 [Jc Th]
+P22 folds
+P12 wins the pot (3)
+
+Hand #6, P12 (-194), P22 (194)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [2d Kh]
+Dealt to P22 [Qs As]
+P12 calls
+P22 checks
+*** FLOP *** (4) [9d 7d Ts]
+P22 bets 140
+P12 raises to 198
+P22 calls
+*** TURN *** (400) [9d 7d Ts] [6s]
+*** RIVER *** (400) [9d 7d Ts 6s] [3c]
+P12 shows [2d Kh]
+P22 shows [Qs As]
+P22 wins the pot (400)
+
+Hand #7, P22 (394), P12 (-394)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kd As]
+Dealt to P12 [6c 3s]
+P22 raises to 122
+P12 raises to 200
+P22 folds
+Uncalled bet of 78 returned to P12
+P12 wins the pot (244)
+
+Hand #8, P12 (-272), P22 (272)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [As 9s]
+Dealt to P22 [5s Th]
+P12 raises to 185
+P22 calls
+*** FLOP *** (370) [Kc 9h Ac]
+P22 checks
+P12 checks
+*** TURN *** (370) [Kc 9h Ac] [4c]
+P22 checks
+P12 checks
+*** RIVER *** (370) [Kc 9h Ac 4c] [Ad]
+P22 bets 12
+P12 calls
+P12 shows [As 9s]
+P22 shows [5s Th]
+P12 wins the pot (394)
+
+Hand #9, P22 (75), P12 (-75)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Jc 7s]
+Dealt to P12 [Js 3d]
+P22 raises to 55
+P12 calls
+*** FLOP *** (110) [Jd 5s 8d]
+P12 checks
+P22 bets 24
+P12 raises to 116
+P22 calls
+*** TURN *** (342) [Jd 5s 8d] [9s]
+P12 checks
+P22 checks
+*** RIVER *** (342) [Jd 5s 8d 9s] [Ad]
+P12 checks
+P22 bets 18
+P12 folds
+Uncalled bet of 18 returned to P22
+P22 wins the pot (342)
+
+Hand #10, P12 (-246), P22 (246)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [6d 4s]
+Dealt to P22 [2c Td]
+P12 folds
+P22 wins the pot (3)
+
+Hand #11, P22 (247), P12 (-247)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [7s Ac]
+Dealt to P12 [Jc Qc]
+P22 raises to 151
+P12 folds
+Uncalled bet of 149 returned to P22
+P22 wins the pot (4)
+
+Hand #12, P12 (-249), P22 (249)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [7s Qs]
+Dealt to P22 [9d 5h]
+P12 raises to 5
+P22 folds
+Uncalled bet of 3 returned to P12
+P12 wins the pot (4)
+
+Hand #13, P22 (247), P12 (-247)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [7s Tc]
+Dealt to P12 [7c 9h]
+P22 calls
+P12 raises to 117
+P22 calls
+*** FLOP *** (234) [Kd Kc 2c]
+P12 bets 65
+P22 calls
+*** TURN *** (364) [Kd Kc 2c] [9s]
+P12 checks
+P22 bets 13
+P12 calls
+*** RIVER *** (390) [Kd Kc 2c 9s] [3d]
+P12 bets 2
+P22 calls
+P22 shows [7s Tc]
+P12 shows [7c 9h]
+P12 wins the pot (394)
+
+Hand #14, P12 (-50), P22 (50)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [2s 2h]
+Dealt to P22 [4d 3h]
+P12 calls
+P22 raises to 196
+P12 raises to 200
+P22 calls
+*** FLOP *** (400) [3s 8c 7s]
+*** TURN *** (400) [3s 8c 7s] [Ac]
+*** RIVER *** (400) [3s 8c 7s Ac] [Js]
+P12 shows [2s 2h]
+P22 shows [4d 3h]
+P22 wins the pot (400)
+
+Hand #15, P22 (250), P12 (-250)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [2d 7d]
+Dealt to P12 [7h 6s]
+P22 raises to 61
+P12 raises to 140
+P22 raises to 200
+P12 calls
+*** FLOP *** (400) [5d 9s 6h]
+*** TURN *** (400) [5d 9s 6h] [Jc]
+*** RIVER *** (400) [5d 9s 6h Jc] [9h]
+P22 shows [2d 7d]
+P12 shows [7h 6s]
+P12 wins the pot (400)
+
+Hand #16, P12 (-50), P22 (50)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Ah 6d]
+Dealt to P22 [Qd Tc]
+P12 folds
+P22 wins the pot (3)
+
+Hand #17, P22 (51), P12 (-51)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [6d 4h]
+Dealt to P12 [9d Jd]
+P22 raises to 64
+P12 folds
+Uncalled bet of 62 returned to P22
+P22 wins the pot (4)
+
+Hand #18, P12 (-53), P22 (53)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [3s 6h]
+Dealt to P22 [8d 9c]
+P12 calls
+P22 checks
+*** FLOP *** (4) [3h 8s Js]
+P22 checks
+P12 checks
+*** TURN *** (4) [3h 8s Js] [Qs]
+P22 bets 197
+P12 raises to 198
+P22 folds
+Uncalled bet of 1 returned to P12
+P12 wins the pot (398)
+
+Hand #19, P22 (-146), P12 (146)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [5h Ah]
+Dealt to P12 [5s Ts]
+P22 folds
+P12 wins the pot (3)
+
+Hand #20, P12 (147), P22 (-147)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [6d Qc]
+Dealt to P22 [Ah Jd]
+P12 folds
+P22 wins the pot (3)
+
+Hand #21, P22 (-146), P12 (146)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kc Qd]
+Dealt to P12 [3c 5h]
+P22 raises to 46
+P12 calls
+*** FLOP *** (92) [2c 8c Qh]
+P12 checks
+P22 checks
+*** TURN *** (92) [2c 8c Qh] [3h]
+P12 checks
+P22 checks
+*** RIVER *** (92) [2c 8c Qh 3h] [4d]
+P12 checks
+P22 checks
+P22 shows [Kc Qd]
+P12 shows [3c 5h]
+P22 wins the pot (92)
+
+Hand #22, P12 (100), P22 (-100)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [7d 5c]
+Dealt to P22 [2d 9d]
+P12 raises to 7
+P22 folds
+Uncalled bet of 5 returned to P12
+P12 wins the pot (4)
+
+Hand #23, P22 (-102), P12 (102)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kd 6h]
+Dealt to P12 [Jd Ac]
+P22 calls
+P12 checks
+*** FLOP *** (4) [6c Qs 2c]
+P12 bets 192
+P22 calls
+*** TURN *** (388) [6c Qs 2c] [As]
+P12 bets 4
+P22 folds
+Uncalled bet of 4 returned to P12
+P12 wins the pot (388)
+
+Hand #24, P12 (296), P22 (-296)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [6h 3c]
+Dealt to P22 [2c Kh]
+P12 folds
+P22 wins the pot (3)
+
+Hand #25, P22 (-295), P12 (295)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [9d 7c]
+Dealt to P12 [Kh 5h]
+P22 raises to 95
+P12 calls
+*** FLOP *** (190) [2d Ac 4c]
+P12 bets 56
+P22 calls
+*** TURN *** (302) [2d Ac 4c] [Qs]
+P12 bets 13
+P22 folds
+Uncalled bet of 13 returned to P12
+P12 wins the pot (302)
+
+Hand #26, P12 (446), P22 (-446)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Js Qh]
+Dealt to P22 [4s 7c]
+P12 raises to 123
+P22 folds
+Uncalled bet of 121 returned to P12
+P12 wins the pot (4)
+
+Hand #27, P22 (-448), P12 (448)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [9d 6s]
+Dealt to P12 [4d 9s]
+P22 folds
+P12 wins the pot (3)
+
+Hand #28, P12 (449), P22 (-449)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qs Td]
+Dealt to P22 [Kc 2c]
+P12 raises to 7
+P22 folds
+Uncalled bet of 5 returned to P12
+P12 wins the pot (4)
+
+Hand #29, P22 (-451), P12 (451)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Qs Js]
+Dealt to P12 [6d Tc]
+P22 raises to 161
+P12 calls
+*** FLOP *** (322) [9s Ah Kh]
+P12 bets 28
+P22 calls
+*** TURN *** (378) [9s Ah Kh] [Ad]
+P12 bets 8
+P22 calls
+*** RIVER *** (394) [9s Ah Kh Ad] [7h]
+P12 bets 2
+P22 raises to 3
+P12 folds
+Uncalled bet of 1 returned to P22
+P22 wins the pot (398)
+
+Hand #30, P12 (252), P22 (-252)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qc 8c]
+Dealt to P22 [Js Ks]
+P12 raises to 148
+P22 raises to 200
+P12 folds
+Uncalled bet of 52 returned to P22
+P22 wins the pot (296)
+
+Hand #31, P22 (-104), P12 (104)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [As Kd]
+Dealt to P12 [Jc 3d]
+P22 calls
+P12 raises to 103
+P22 folds
+Uncalled bet of 101 returned to P12
+P12 wins the pot (4)
+
+Hand #32, P12 (106), P22 (-106)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [As 9d]
+Dealt to P22 [3c Qd]
+P12 folds
+P22 wins the pot (3)
+
+Hand #33, P22 (-105), P12 (105)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kc 3d]
+Dealt to P12 [7s Tc]
+P22 raises to 43
+P12 folds
+Uncalled bet of 41 returned to P22
+P22 wins the pot (4)
+
+Hand #34, P12 (103), P22 (-103)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qd 7s]
+Dealt to P22 [4d Jd]
+P12 calls
+P22 raises to 89
+P12 calls
+*** FLOP *** (178) [5s Jc Qh]
+P22 checks
+P12 bets 62
+P22 raises to 111
+P12 calls
+*** TURN *** (400) [5s Jc Qh] [5d]
+*** RIVER *** (400) [5s Jc Qh 5d] [7h]
+P12 shows [Qd 7s]
+P22 shows [4d Jd]
+P12 wins the pot (400)
+
+Hand #35, P22 (-303), P12 (303)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Ks 3c]
+Dealt to P12 [As 9d]
+P22 calls
+P12 raises to 33
+P22 raises to 74
+P12 folds
+Uncalled bet of 41 returned to P22
+P22 wins the pot (66)
+
+Hand #36, P12 (270), P22 (-270)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [9c Tc]
+Dealt to P22 [Kd 3c]
+P12 raises to 125
+P22 raises to 200
+P12 calls
+*** FLOP *** (400) [8d Td 2s]
+*** TURN *** (400) [8d Td 2s] [Qc]
+*** RIVER *** (400) [8d Td 2s Qc] [6s]
+P12 shows [9c Tc]
+P22 shows [Kd 3c]
+P12 wins the pot (400)
+
+Hand #37, P22 (-470), P12 (470)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Th Jd]
+Dealt to P12 [5c Qs]
+P22 raises to 86
+P12 raises to 180
+P22 raises to 200
+P12 folds
+Uncalled bet of 20 returned to P22
+P22 wins the pot (360)
+
+Hand #38, P12 (290), P22 (-290)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qh 3d]
+Dealt to P22 [7h Th]
+P12 raises to 155
+P22 folds
+Uncalled bet of 153 returned to P12
+P12 wins the pot (4)
+
+Hand #39, P22 (-292), P12 (292)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Js 4s]
+Dealt to P12 [Qh 7c]
+P22 calls
+P12 raises to 118
+P22 folds
+Uncalled bet of 116 returned to P12
+P12 wins the pot (4)
+
+Hand #40, P12 (294), P22 (-294)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Kd 6s]
+Dealt to P22 [7c Td]
+P12 raises to 152
+P22 raises to 200
+P12 folds
+Uncalled bet of 48 returned to P22
+P22 wins the pot (304)
+
+Hand #41, P22 (-142), P12 (142)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [2d Ac]
+Dealt to P12 [2h Js]
+P22 raises to 35
+P12 raises to 86
+P22 calls
+*** FLOP *** (172) [Kc 5h 4s]
+P12 checks
+P22 bets 33
+P12 raises to 68
+P22 folds
+Uncalled bet of 35 returned to P12
+P12 wins the pot (238)
+
+Hand #42, P12 (261), P22 (-261)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [9c 6s]
+Dealt to P22 [Qh Qc]
+P12 folds
+P22 wins the pot (3)
+
+Hand #43, P22 (-260), P12 (260)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [7c 3h]
+Dealt to P12 [Ac Th]
+P22 calls
+P12 checks
+*** FLOP *** (4) [6c 5s 7h]
+P12 checks
+P22 bets 89
+P12 folds
+Uncalled bet of 89 returned to P22
+P22 wins the pot (4)
+
+Hand #44, P12 (258), P22 (-258)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [8h Ts]
+Dealt to P22 [Qd Js]
+P12 folds
+P22 wins the pot (3)
+
+Hand #45, P22 (-257), P12 (257)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [6d 2c]
+Dealt to P12 [9s 4d]
+P22 raises to 136
+P12 folds
+Uncalled bet of 134 returned to P22
+P22 wins the pot (4)
+
+Hand #46, P12 (255), P22 (-255)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qh Kh]
+Dealt to P22 [6h 9s]
+P12 raises to 120
+P22 folds
+Uncalled bet of 118 returned to P12
+P12 wins the pot (4)
+
+Hand #47, P22 (-257), P12 (257)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Ac Js]
+Dealt to P12 [7c Qs]
+P22 calls
+P12 raises to 4
+P22 raises to 55
+P12 calls
+*** FLOP *** (110) [5c Ts 3s]
+P12 bets 108
+P22 calls
+*** TURN *** (326) [5c Ts 3s] [2h]
+P12 checks
+P22 bets 15
+P12 raises to 34
+P22 raises to 37
+P12 calls
+*** RIVER *** (400) [5c Ts 3s 2h] [Kd]
+P22 shows [Ac Js]
+P12 shows [7c Qs]
+P22 wins the pot (400)
+
+Hand #48, P12 (57), P22 (-57)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [7s 8h]
+Dealt to P22 [3h Jc]
+P12 calls
+P22 raises to 76
+P12 calls
+*** FLOP *** (152) [9s 8s 2s]
+P22 bets 86
+P12 folds
+Uncalled bet of 86 returned to P22
+P22 wins the pot (152)
+
+Hand #49, P22 (19), P12 (-19)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [8c Ac]
+Dealt to P12 [Ks Kc]
+P22 folds
+P12 wins the pot (3)
+
+Hand #50, P12 (-18), P22 (18)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [9c 6h]
+Dealt to P22 [4c 3s]
+P12 folds
+P22 wins the pot (3)
+
+Hand #51, P22 (19), P12 (-19)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [4d Jc]
+Dealt to P12 [Qs Th]
+P22 calls
+P12 raises to 147
+P22 folds
+Uncalled bet of 145 returned to P12
+P12 wins the pot (4)
+
+Hand #52, P12 (-17), P22 (17)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [6d Td]
+Dealt to P22 [4s Jc]
+P12 calls
+P22 checks
+*** FLOP *** (4) [Ac 3c Qh]
+P22 checks
+P12 bets 2
+P22 folds
+Uncalled bet of 2 returned to P12
+P12 wins the pot (4)
+
+Hand #53, P22 (15), P12 (-15)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [4h 2d]
+Dealt to P12 [5h 5c]
+P22 folds
+P12 wins the pot (3)
+
+Hand #54, P12 (-14), P22 (14)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [7s 5d]
+Dealt to P22 [Ts 3c]
+P12 calls
+P22 checks
+*** FLOP *** (4) [Jd Ah 4c]
+P22 checks
+P12 bets 57
+P22 raises to 168
+P12 folds
+Uncalled bet of 111 returned to P22
+P22 wins the pot (118)
+
+Hand #55, P22 (73), P12 (-73)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [9c 4h]
+Dealt to P12 [2h Jh]
+P22 folds
+P12 wins the pot (3)
+
+Hand #56, P12 (-72), P22 (72)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [4h 9d]
+Dealt to P22 [8d 5c]
+P12 folds
+P22 wins the pot (3)
+
+Hand #57, P22 (73), P12 (-73)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Qh Kh]
+Dealt to P12 [Ad 2d]
+P22 folds
+P12 wins the pot (3)
+
+Hand #58, P12 (-72), P22 (72)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [8s 3h]
+Dealt to P22 [Js 3s]
+P12 calls
+P22 raises to 183
+P12 raises to 200
+P22 calls
+*** FLOP *** (400) [8d Jd 3d]
+*** TURN *** (400) [8d Jd 3d] [4d]
+*** RIVER *** (400) [8d Jd 3d 4d] [6d]
+P12 shows [8s 3h]
+P22 shows [Js 3s]
+P12 ties for the pot (200)
+P22 ties for the pot (200)
+
+Hand #59, P22 (72), P12 (-72)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Js 6d]
+Dealt to P12 [Ah Th]
+P22 folds
+P12 wins the pot (3)
+
+Hand #60, P12 (-71), P22 (71)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Jh 2c]
+Dealt to P22 [3h 7s]
+P12 raises to 191
+P22 raises to 200
+P12 folds
+Uncalled bet of 9 returned to P22
+P22 wins the pot (382)
+
+Hand #61, P22 (262), P12 (-262)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [2c 4c]
+Dealt to P12 [5c Jc]
+P22 folds
+P12 wins the pot (3)
+
+Hand #62, P12 (-261), P22 (261)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Qc Kc]
+Dealt to P22 [7d Jd]
+P12 folds
+P22 wins the pot (3)
+
+Hand #63, P22 (262), P12 (-262)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [4s 2d]
+Dealt to P12 [9h Qd]
+P22 folds
+P12 wins the pot (3)
+
+Hand #64, P12 (-261), P22 (261)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Kh Ah]
+Dealt to P22 [Kc 5d]
+P12 folds
+P22 wins the pot (3)
+
+Hand #65, P22 (262), P12 (-262)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [5h Ks]
+Dealt to P12 [As 8c]
+P22 raises to 125
+P12 raises to 200
+P22 calls
+*** FLOP *** (400) [Ah Qc 7h]
+*** TURN *** (400) [Ah Qc 7h] [3s]
+*** RIVER *** (400) [Ah Qc 7h 3s] [7s]
+P22 shows [5h Ks]
+P12 shows [As 8c]
+P12 wins the pot (400)
+
+Hand #66, P12 (-62), P22 (62)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Ad 4d]
+Dealt to P22 [2h 3h]
+P12 raises to 55
+P22 raises to 113
+P12 calls
+*** FLOP *** (226) [Qd Jc Ah]
+P22 bets 48
+P12 calls
+*** TURN *** (322) [Qd Jc Ah] [Td]
+P22 checks
+P12 checks
+*** RIVER *** (322) [Qd Jc Ah Td] [9h]
+P22 bets 30
+P12 raises to 39
+P22 calls
+P12 shows [Ad 4d]
+P22 shows [2h 3h]
+P12 wins the pot (400)
+
+Hand #67, P22 (-138), P12 (138)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [7c 2h]
+Dealt to P12 [8d 6d]
+P22 calls
+P12 raises to 137
+P22 folds
+Uncalled bet of 135 returned to P12
+P12 wins the pot (4)
+
+Hand #68, P12 (140), P22 (-140)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [8d 4d]
+Dealt to P22 [8s Ac]
+P12 raises to 148
+P22 raises to 200
+P12 folds
+Uncalled bet of 52 returned to P22
+P22 wins the pot (296)
+
+Hand #69, P22 (8), P12 (-8)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [2c 9h]
+Dealt to P12 [2d Ac]
+P22 calls
+P12 checks
+*** FLOP *** (4) [Jc 7s 6c]
+P12 bets 94
+P22 raises to 188
+P12 folds
+Uncalled bet of 94 returned to P22
+P22 wins the pot (192)
+
+Hand #70, P12 (-104), P22 (104)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Tc 5c]
+Dealt to P22 [3h As]
+P12 calls
+P22 raises to 33
+P12 folds
+Uncalled bet of 31 returned to P22
+P22 wins the pot (4)
+
+Hand #71, P22 (106), P12 (-106)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [5h Kh]
+Dealt to P12 [9h Ac]
+P22 raises to 157
+P12 folds
+Uncalled bet of 155 returned to P22
+P22 wins the pot (4)
+
+Hand #72, P12 (-108), P22 (108)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [5c Qh]
+Dealt to P22 [Td Jd]
+P12 folds
+P22 wins the pot (3)
+
+Hand #73, P22 (109), P12 (-109)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Th 6h]
+Dealt to P12 [9d 9c]
+P22 folds
+P12 wins the pot (3)
+
+Hand #74, P12 (-108), P22 (108)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [9c Ts]
+Dealt to P22 [8c 4d]
+P12 calls
+P22 checks
+*** FLOP *** (4) [3d Qc Kc]
+P22 bets 77
+P12 calls
+*** TURN *** (158) [3d Qc Kc] [5s]
+P22 checks
+P12 checks
+*** RIVER *** (158) [3d Qc Kc 5s] [As]
+P22 checks
+P12 checks
+P12 shows [9c Ts]
+P22 shows [8c 4d]
+P12 wins the pot (158)
+
+Hand #75, P22 (29), P12 (-29)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [7c 6d]
+Dealt to P12 [6c Qc]
+P22 raises to 145
+P12 calls
+*** FLOP *** (290) [2s 2c 5c]
+P12 bets 22
+P22 folds
+Uncalled bet of 22 returned to P12
+P12 wins the pot (290)
+
+Hand #76, P12 (116), P22 (-116)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [5c Ts]
+Dealt to P22 [5d 2d]
+P12 calls
+P22 raises to 66
+P12 folds
+Uncalled bet of 64 returned to P22
+P22 wins the pot (4)
+
+Hand #77, P22 (-114), P12 (114)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Ad 7h]
+Dealt to P12 [8c 6h]
+P22 raises to 88
+P12 raises to 183
+P22 calls
+*** FLOP *** (366) [Qd 2s 5c]
+P12 bets 13
+P22 calls
+*** TURN *** (392) [Qd 2s 5c] [7c]
+P12 bets 3
+P22 calls
+*** RIVER *** (398) [Qd 2s 5c 7c] [Kh]
+P12 bets 1
+P22 calls
+P22 shows [Ad 7h]
+P12 shows [8c 6h]
+P22 wins the pot (400)
+
+Hand #78, P12 (-86), P22 (86)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [4c 8s]
+Dealt to P22 [Td Kc]
+P12 raises to 84
+P22 folds
+Uncalled bet of 82 returned to P12
+P12 wins the pot (4)
+
+Hand #79, P22 (84), P12 (-84)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Jc 7h]
+Dealt to P12 [4s Td]
+P22 folds
+P12 wins the pot (3)
+
+Hand #80, P12 (-83), P22 (83)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [5h 4d]
+Dealt to P22 [7c 5d]
+P12 raises to 97
+P22 calls
+*** FLOP *** (194) [Ac 5c 3h]
+P22 bets 62
+P12 folds
+Uncalled bet of 62 returned to P22
+P22 wins the pot (194)
+
+Hand #81, P22 (180), P12 (-180)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [6c 2c]
+Dealt to P12 [Jc 6h]
+P22 calls
+P12 raises to 103
+P22 calls
+*** FLOP *** (206) [2d Ac 7h]
+P12 bets 3
+P22 raises to 27
+P12 calls
+*** TURN *** (260) [2d Ac 7h] [Ah]
+P12 bets 32
+P22 raises to 68
+P12 folds
+Uncalled bet of 36 returned to P22
+P22 wins the pot (324)
+
+Hand #82, P12 (-342), P22 (342)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Td Ah]
+Dealt to P22 [4s Th]
+P12 raises to 100
+P22 raises to 198
+P12 folds
+Uncalled bet of 98 returned to P22
+P22 wins the pot (200)
+
+Hand #83, P22 (442), P12 (-442)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kc 2c]
+Dealt to P12 [7h 4d]
+P22 folds
+P12 wins the pot (3)
+
+Hand #84, P12 (-441), P22 (441)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [2h 5c]
+Dealt to P22 [Kd 2d]
+P12 calls
+P22 checks
+*** FLOP *** (4) [4d Kc 7h]
+P22 bets 67
+P12 folds
+Uncalled bet of 67 returned to P22
+P22 wins the pot (4)
+
+Hand #85, P22 (443), P12 (-443)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [2s 4s]
+Dealt to P12 [As Ks]
+P22 raises to 93
+P12 folds
+Uncalled bet of 91 returned to P22
+P22 wins the pot (4)
+
+Hand #86, P12 (-445), P22 (445)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [2h 7d]
+Dealt to P22 [5h Jd]
+P12 calls
+P22 checks
+*** FLOP *** (4) [3h 7c 9s]
+P22 bets 147
+P12 raises to 198
+P22 folds
+Uncalled bet of 51 returned to P12
+P12 wins the pot (298)
+
+Hand #87, P22 (296), P12 (-296)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [9s 3d]
+Dealt to P12 [Th Qd]
+P22 calls
+P12 raises to 42
+P22 raises to 119
+P12 folds
+Uncalled bet of 77 returned to P22
+P22 wins the pot (84)
+
+Hand #88, P12 (-338), P22 (338)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [2s Ks]
+Dealt to P22 [2d 4s]
+P12 calls
+P22 raises to 169
+P12 folds
+Uncalled bet of 167 returned to P22
+P22 wins the pot (4)
+
+Hand #89, P22 (340), P12 (-340)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [As 8h]
+Dealt to P12 [4d 6s]
+P22 raises to 93
+P12 folds
+Uncalled bet of 91 returned to P22
+P22 wins the pot (4)
+
+Hand #90, P12 (-342), P22 (342)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Ts Jd]
+Dealt to P22 [3h 7h]
+P12 folds
+P22 wins the pot (3)
+
+Hand #91, P22 (343), P12 (-343)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [5h Jc]
+Dealt to P12 [Ac 3h]
+P22 raises to 161
+P12 folds
+Uncalled bet of 159 returned to P22
+P22 wins the pot (4)
+
+Hand #92, P12 (-345), P22 (345)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Ac 6h]
+Dealt to P22 [2h 6d]
+P12 folds
+P22 wins the pot (3)
+
+Hand #93, P22 (346), P12 (-346)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [3d Kd]
+Dealt to P12 [Ks 3h]
+P22 calls
+P12 checks
+*** FLOP *** (4) [2c 9h 8d]
+P12 checks
+P22 bets 106
+P12 calls
+*** TURN *** (216) [2c 9h 8d] [5d]
+P12 bets 86
+P22 calls
+*** RIVER *** (388) [2c 9h 8d 5d] [8s]
+P12 checks
+P22 bets 5
+P12 calls
+P22 shows [3d Kd]
+P12 shows [Ks 3h]
+P22 ties for the pot (199)
+P12 ties for the pot (199)
+
+Hand #94, P12 (-346), P22 (346)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Kc Jc]
+Dealt to P22 [4d 5c]
+P12 folds
+P22 wins the pot (3)
+
+Hand #95, P22 (347), P12 (-347)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [Kd Qd]
+Dealt to P12 [As 6d]
+P22 calls
+P12 raises to 138
+P22 folds
+Uncalled bet of 136 returned to P12
+P12 wins the pot (4)
+
+Hand #96, P12 (-345), P22 (345)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [5c 5s]
+Dealt to P22 [8d 8s]
+P12 folds
+P22 wins the pot (3)
+
+Hand #97, P22 (346), P12 (-346)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [3h 8h]
+Dealt to P12 [5c Ac]
+P22 folds
+P12 wins the pot (3)
+
+Hand #98, P12 (-345), P22 (345)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Td 5d]
+Dealt to P22 [9s Kc]
+P12 raises to 197
+P22 raises to 200
+P12 calls
+*** FLOP *** (400) [3c As Qc]
+*** TURN *** (400) [3c As Qc] [Th]
+*** RIVER *** (400) [3c As Qc Th] [Ks]
+P12 shows [Td 5d]
+P22 shows [9s Kc]
+P22 wins the pot (400)
+
+Hand #99, P22 (545), P12 (-545)
+P22 posts the blind of 1
+P12 posts the blind of 2
+Dealt to P22 [6c Kc]
+Dealt to P12 [Ks 7h]
+P22 raises to 51
+P12 calls
+*** FLOP *** (102) [3c 6s 4d]
+P12 bets 82
+P22 raises to 149
+P12 folds
+Uncalled bet of 67 returned to P22
+P22 wins the pot (266)
+
+Hand #100, P12 (-678), P22 (678)
+P12 posts the blind of 1
+P22 posts the blind of 2
+Dealt to P12 [Tc Th]
+Dealt to P22 [3h As]
+P12 raises to 42
+P22 calls
+*** FLOP *** (84) [3s 9h 9s]
+P22 checks
+P12 checks
+*** TURN *** (84) [3s 9h 9s] [Kc]
+P22 checks
+P12 bets 9
+P22 raises to 49
+P12 calls
+*** RIVER *** (182) [3s 9h 9s Kc] [4s]
+P22 bets 33
+P12 calls
+P12 shows [Tc Th]
+P22 shows [3h As]
+P12 wins the pot (248)
+
+FINAL: P22 (554) P12 (-554)
